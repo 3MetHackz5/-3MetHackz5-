@@ -1,0 +1,29 @@
+site_name: Uday Kanuru — Cybersecurity Portfolio
+site_description: TryHackMe walkthroughs, pentest notes, articles and updates.
+site_author: Uday
+site_url: https://3MetHackz5.github.io/-3MetHackz5-
+repo_url: https://github.com/3MetHackz5/-3MetHackz5-
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep-orange
+nav:
+  - Home: index.md
+  - Walkthroughs:
+      - Sample Walkthrough: walkthroughs/sample-walkthrough.md
+  - Articles:
+      - Sample Article: articles/sample-article.md
+  - Updates: updates.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.snippets
