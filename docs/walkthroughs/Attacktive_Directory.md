@@ -1,4 +1,4 @@
-# Attacktive Directory — Complete Walkthrough (Publish-ready `.md`)
+# Attacktive Directory — Complete Walkthrough
 
 > **Difficulty:** Medium — Active Directory (Kerberos / SMB / DRSUAPI)  
 > **Goal:** Achieve full domain compromise and obtain Domain Administrator access on the *Attacktive Directory* machine.
