@@ -10,7 +10,7 @@ Practical, responsible penetration testing techniques and writeups (methodology,
 
 <b>🟢 TryHackMe Walkthroughs</b><br/>
 Reproducible, copy-paste friendly walkthroughs with screenshots, commands, and interview bullets.  
-👉 <a href="https://3MetHackz5.github.io/-3MetHackz5-/walkthroughs/">Browse Walkthroughs</a>
+👉 <a href="https://github.com/3MetHackz5/-3MetHackz5-/tree/main/docs/walkthroughs/">Browse Walkthroughs</a>
 
 <b>📝 Articles & News</b><br/>
 Short explainers, opinion pieces, and timely cyber news updates.  
