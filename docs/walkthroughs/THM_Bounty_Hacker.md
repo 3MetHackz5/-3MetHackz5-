@@ -202,10 +202,3 @@ cat /root/root.txt
 
 ---
 
-## References
-
-- “Bounty Hacker Write-up” (InfoSec / Medium repost) — FTP → `locks.txt` → `hydra` → `sudo tar` → root flow.
-- GitHub — community repos with example steps and scripts for *Bounty Hacker*.
-- GTFOBins — [tar abuse pattern](https://gtfobins.github.io/) for privilege escalation.
-
----
