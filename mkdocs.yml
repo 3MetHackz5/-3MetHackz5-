@@ -18,6 +18,11 @@ nav:
   - Home: index.md
   - Walkthroughs:
       - Sample Walkthrough: walkthroughs/sample-walkthrough.md
+      - Attacktive Directory: walkthroughs/Attacktive_Directory.md
+      - Billing THM: walkthroughs/Billing_thm.md
+      - 
+      -
+
   - Articles:
       - Sample Article: articles/sample-article.md
   - Updates: updates.md
