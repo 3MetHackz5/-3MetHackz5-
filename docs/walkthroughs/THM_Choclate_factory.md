@@ -219,7 +219,4 @@ cat /root/root.txt
 
 ---
 
-## References
 
-- [1]: https://github.com/0x4D31/writeups/tree/main/tryhackme/chocolate-factory
-- [2]: https://github.com/GTFObins/GTFOBins
