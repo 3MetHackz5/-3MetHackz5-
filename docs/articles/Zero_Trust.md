@@ -55,12 +55,12 @@ Zero Trust isn’t a one-time project; it’s a continuous journey. As more orga
 - Attack surface drastically reduced.
 - Breaches becoming speed bumps, not disasters.
 
-The message is clear: organizations that succeed tomorrow will be those who accept that trust must always be verified and that segmentation is not optional—it’s essential.
+The message is clear: organizations that succeed tomorrow will be those who accept that trust must always be verified and that segmentation is not optional, it’s essential.
 
 ---
 
 ### Final Thoughts
 
-Zero Trust is no longer just a framework on paper; it’s the new operating model for cybersecurity. And with innovators like Illumio, the future is not about building taller walls, but about creating smarter, adaptive environments where attackers have nowhere to go.
+Zero Trust is no longer just a framework on paper, it’s the new operating model for cybersecurity. And with innovators like Illumio, the future is not about building taller walls, but about creating smarter, adaptive environments where attackers have nowhere to go.
 
 ---
