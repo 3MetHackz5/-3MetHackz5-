@@ -1,36 +1,50 @@
-<h1>Hi, I'm Uday! <br/> <a href="https://github.com/your-github-username">Cybersecurity • Portfolio</a>, <a href="https://linkedin.com/in/your-linkedin">GRC & Risk</a>, <a href="mailto:youremail@example.com">Contact</a></h1> <h2>👨‍💻 What I focus on:</h2>
+<h1>Hi, I'm Uday! <br/> 
+<a href="https://3MetHackz5.github.io/-3MetHackz5-">Cybersecurity Portfolio</a>, 
+<a href="mailto:your@email.com">Contact</a>
+</h1>
 
-<b>Red Team / Penetration Testing</b>
+<h2>👨‍💻 What I focus on:</h2>
 
+<b>🔴 Red Team / Penetration Testing</b><br/>
 Practical, responsible penetration testing techniques and writeups (methodology, tools, and concise commands).
 
-<b>TryHackMe Walkthroughs</b>
+<b>🟢 TryHackMe Walkthroughs</b><br/>
+Reproducible, copy-paste friendly walkthroughs with screenshots, commands, and interview bullets.  
+👉 <a href="https://github.com/3MetHackz5/-3MetHackz5-/tree/main/docs/walkthroughs/">Browse Walkthroughs</a>
 
-Reproducible, copy-paste friendly walkthroughs with screenshots, commands, and interview bullets.
+<b>📝 Articles & News</b><br/>
+Short explainers, opinion pieces, and timely cyber news updates.  
+👉 <a href="https://github.com/3MetHackz5/-3MetHackz5-/tree/main/docs/articles/">Read Articles</a>
 
-<b>Articles & News</b>
+<b>📊 GRC & Security Strategy</b><br/>
+Controls mapping, policy notes, and practical compliance guidance (high-level, non-confidential).
 
-Short explainers, opinion pieces, and timely cyber news updates I write and publish here.
+---
 
-<b>GRC & Security Strategy</b>
+<h2>📂 Selected Content Types</h2>
 
-Controls mapping, policy notes and practical compliance guidance (high-level, non-confidential).
+<ul>
+  <li><b>Walkthroughs:</b> TryHackMe & CTF solutions (enumeration → exploit → post-exploit reasoning)</li>
+  <li><b>How-to Guides:</b> Quick, practical guides for pentest tasks and detection tips</li>
+  <li><b>Articles & Updates:</b> Security trends, tool notes, and commentary on industry news</li>
+</ul>
 
-<h2>📺 Selected content types</h2>
-
-Walkthroughs: step-by-step TryHackMe & CTF solutions (enumeration → exploit → post-exploit reasoning).
-
-How-to Guides: quick, practical guides for common pentest tasks and detection tips.
-
-Articles & Updates: security trends, tool notes, and occasional commentary on industry news.
-
+---
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/" target="_blank">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/3MetHackz5" target="_blank">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
