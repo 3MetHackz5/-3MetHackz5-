@@ -1,77 +1,83 @@
 # 🔒 Zero Trust: Redefining Security for a Borderless World
 
-For decades, cybersecurity relied on the concept of a “trusted perimeter.”  
-Firewalls and VPNs created a boundary between what was considered safe (inside the network) and what was risky (outside).  
-
-That perimeter no longer exists. Cloud adoption, remote work, and sophisticated attackers have made it clear: **trust is not a location, and access cannot be assumed.**
-
-This is where **Zero Trust** comes in—not as a buzzword, but as a mindset shift.
+!!! abstract "TL;DR"
+    The perimeter is dead. Zero Trust + Illumio’s Zero Trust Segmentation (ZTS) are rewriting the rules of cybersecurity by isolating workloads, stopping lateral movement, and making breaches survivable.  
 
 ---
 
 ## 🌐 What Zero Trust Really Means
 
-At its core, Zero Trust is built on a single principle:  
-**“Never trust, always verify.”**
+> **Zero Trust Principle:** *Never trust, always verify.*  
 
-Every request, whether from inside the network or outside, must be **authenticated, authorized, and continuously validated.**
+Every request—internal or external—must be:
+- 🔑 **Authenticated**
+- 🛡️ **Authorized**
+- 🔍 **Continuously validated**
 
-**Key pillars of Zero Trust include:**
-- ✅ **Identity verification** — Users and devices must prove who they are.  
-- ✅ **Least privilege** — Access is limited to exactly what is required, nothing more.  
-- ✅ **Segmentation** — Workloads, applications, and data are isolated to reduce blast radius.  
-- ✅ **Continuous monitoring** — Trust is not permanent; it must be earned every time.  
+**Core pillars of Zero Trust:**
 
-> 💡 *This means a single compromised credential or vulnerable server should never expose an entire environment.*
+| Pillar              | What it means |
+|---------------------|---------------|
+| **Identity**        | Users/devices must prove who they are |
+| **Least privilege** | Access only to what’s necessary |
+| **Segmentation**    | Isolate workloads & apps to shrink blast radius |
+| **Monitoring**      | Trust is earned every time, not permanent |
+
+!!! note
+    This means a single compromised credential **should not** compromise the whole network.
 
 ---
 
 ## 🚀 Illumio and the Future of Zero Trust
 
-While the philosophy of Zero Trust is widely accepted, **practical implementation has always been the challenge.**  
+Traditional microsegmentation was **complex, static, and painful.**  
+Illumio’s **Zero Trust Segmentation (ZTS)** changes that by focusing on clarity and scale.
 
-This is where **Illumio’s Zero Trust Segmentation (ZTS)** changes the game:
+!!! success "Illumio ZTS at a glance"
+    - 🔒 **Stops lateral movement** → Contain breaches before they spread  
+    - 🌍 **Visibility at scale** → Real-time application maps  
+    - ⚡ **Adaptive policies** → Enforced consistently across hybrid + multi-cloud  
 
-- **Stops lateral movement** → Even if attackers breach one system, they cannot pivot across the network.  
-- **Visibility at scale** → Real-time maps show how applications communicate, making policies easier to design.  
-- **Adaptive policies** → Simple rules that are enforced consistently across hybrid and multi-cloud environments.  
-
-Traditional microsegmentation approaches were heavy and complex. Illumio has made segmentation **practical, scalable, and business-friendly.**
+> Illumio makes segmentation practical, scalable, and business-friendly.
 
 ---
 
 ## 🔑 Why This Matters
 
-The stakes have never been higher:
-- Ransomware campaigns  
-- Supply chain compromises  
-- Insider threats  
+!!! danger "The stakes are rising"
+    - 🚨 Ransomware  
+    - 🕵️ Supply chain compromises  
+    - 👥 Insider threats  
 
-All of these exploit the fact that traditional defenses allow **lateral movement.**  
+Attackers **depend on lateral movement**. Zero Trust + Illumio cuts that pathway off.  
 
-With Illumio, **the blast radius of an attack is contained.**  
-Breaches may still happen—but catastrophic damage does not.
+- Breach? → Limited blast radius  
+- Compromised machine? → Contained instantly  
+- Outcome? → Breach becomes a *speed bump, not a catastrophe*  
 
 ---
 
 ## 📈 Looking Ahead
 
-Zero Trust isn’t a one-time project—it’s a **continuous journey.**  
+Zero Trust is not a **project** — it’s a **continuous journey.**
 
-As organizations embrace cloud-first strategies, distributed workforces, and complex ecosystems, the ability to **isolate, contain, and adapt** will define security leaders.
+Illumio’s operational approach shows the way:
+- 🔹 **Simpler policies, less guesswork**  
+- 🔹 **Attack surface reduced**  
+- 🔹 **Breaches minimized**  
 
-Illumio’s role in operationalizing Zero Trust shows us the future:
-- 🔹 Simpler policies, less guesswork  
-- 🔹 Attack surface drastically reduced  
-- 🔹 Breaches becoming speed bumps, not disasters  
+!!! tip
+    The organizations that succeed tomorrow will treat segmentation as essential, not optional.
 
 ---
 
 ## 🏁 Final Thoughts
 
-Zero Trust is no longer just a framework on paper—it’s the **new operating model for cybersecurity.**
+Zero Trust has moved from *framework on paper* to the **operating model of cybersecurity.**  
 
-With innovators like Illumio, the future isn’t about building taller walls.  
-It’s about creating **smarter, adaptive environments where attackers have nowhere to go.**
+With innovators like Illumio:
+- We aren’t building taller walls.  
+- We’re building **smarter, adaptive environments**.  
+- Attackers? They have **nowhere to go**.  
 
 ---
