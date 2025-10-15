@@ -1,7 +1,3 @@
-<h1>Hi, I'm Uday! <br/> 
-<a href="https://3MetHackz5.github.io/-3MetHackz5-">Cybersecurity Portfolio</a>, 
-<a href="mailto:your@email.com">Contact</a>
-</h1>
 
 <h2>👨‍💻 What I focus on:</h2>
 
